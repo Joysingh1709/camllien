@@ -1,0 +1,7 @@
+{
+  "name": "camllien",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
